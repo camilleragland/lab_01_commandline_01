@@ -168,4 +168,4 @@ What is the command, flag, argument, and prompt?
 ls is the command
 -a is the flag
 the argument is Desktop
-the prompt is ls -a Desktop
+the prompt is $
