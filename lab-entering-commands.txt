@@ -9,7 +9,6 @@ Follow the instructions line-by-line.
 ==========
 
 
-
 ==========
 1. Open Terminal.  Type:
 
@@ -18,7 +17,7 @@ $ ls<ENTER>
 Copy and paste the output of ls below.
 ----------
 
-
+nothing happens
 
 ==========
 2a. Type: 
